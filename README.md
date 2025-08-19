@@ -2,6 +2,12 @@
 
 Este repositório contém a implementação em C de três algoritmos de ordenação básicos (Bubble Sort, Insertion Sort e Selection Sort) para resolver dois problemas propostos.
 
+Integrantes:
+Pedro Mendes RM: 562242
+Leonardo Augusto RM: 565564
+Alexandre RM: 563346
+Guilherme Peres RM: 563981
+
 ## Descrição dos Exercícios
 
 ### Exercício 1: Ordenando Alturas de Pessoas (`ordenando-alturas-de-pessoas.c`)
